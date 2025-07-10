@@ -1,9 +1,38 @@
-### Oii eu sou Murilo Morandi Alexandre, desenvolvedor full-stack👋
+# 👋 Oii, eu sou Murilo Morandi Alexandre
 
-Aqui você vai encontrar alguns dos repositorios usados por mim, durante minha rotina de estudos, pode ser que alguns desses projetos não estejam finalizados, por motivos de ter começado a estudar alguma outra tecnologia que estou precisando no meu dia a dia profissional.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/MuriloMorandi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloMorandi&show_icons=true&theme=gotham&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMorandi&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+- 🌱 Desenvolvedor **Full‑Stack** apaixonado por aprender e aplicar novas tecnologias.
+- 🛠️ Ferramentas que uso com frequência: **TypeScript • React • Node.js • Docker**.
+- 📫 Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/murilomorandi)
+
+---
+
+## 🚀 Repositórios em destaque
+
+| Projeto | Descrição breve |
+|--------|------------------|
+| [**Widget Upload**](https://github.com/MuriloMorandi/widget-upload) | Widget de upload de imagens usando **React**, **Fastify** e **Cloudflare R2**. |
+| [**Find a Friend API**](https://github.com/MuriloMorandi/FindAFriend-API) | API construída com **Fastify** seguindo os princípios **SOLID**. |
+
+> 📌 Outros repositórios em andamento estão disponíveis no meu perfil — fique à vontade para explorar!
+
+---
+
+## 🎯 Objetivos
+
+- Aprofundar conhecimentos em **arquitetura de software**, boas práticas de **API** e **sistemas web modernos**.
+
+---
+
+## 🔗 Conecte-se comigo
+
+- [💼 LinkedIn](https://www.linkedin.com/in/murilomorandi)
+- [📁 GitHub](https://github.com/MuriloMorandi)
+
+---
+
+**Obrigado pela visita! 😊**
