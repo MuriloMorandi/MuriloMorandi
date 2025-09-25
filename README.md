@@ -15,8 +15,10 @@
 
 | Projeto | Descrição breve |
 |--------|------------------|
-| [**Widget Upload**](https://github.com/MuriloMorandi/widget-upload) | Widget de upload de imagens usando **React**, **Fastify** e **Cloudflare R2**. |
+| [**Brev-ly**](https://github.com/MuriloMorandi/brev-ly) | É um encurtador de URLs desenvolvido em TypeScript com **React**, **Fastify** e **Docker** |
 | [**Find a Friend API**](https://github.com/MuriloMorandi/FindAFriend-API) | API construída com **Fastify** seguindo os princípios **SOLID**. |
+| [**Widget Upload**](https://github.com/MuriloMorandi/widget-upload) | Widget de upload de imagens usando **React**, **Fastify** e **Cloudflare R2**. |
+
 
 > 📌 Outros repositórios em andamento estão disponíveis no meu perfil — fique à vontade para explorar!
 
