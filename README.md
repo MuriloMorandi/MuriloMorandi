@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - 🌱 Desenvolvedor **Full‑Stack** apaixonado por aprender e aplicar novas tecnologias.
-- 🛠️ Ferramentas que uso com frequência: **TypeScript • React • Node.js • Docker**.
+- 🛠️ Ferramentas que uso com frequência: **TypeScript • React • Vue • Node.js • Docker**.
 - 📫 Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/murilomorandi)
 
 ---
